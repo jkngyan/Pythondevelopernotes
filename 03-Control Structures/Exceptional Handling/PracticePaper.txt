@@ -1,0 +1,20 @@
+Write a program that handles a ZeroDivisionError when attempting to divide a number by zero.
+Write a program that tries to open a file and handles the FileNotFoundError if the file does not exist.
+Write a program that uses a try-except-finally block to ensure a file is closed after attempting to read from it.
+Write a function that raises a ValueError if the input is not an integer and handle this exception.
+Create a custom exception called InvalidAgeError and raise it when an invalid age is entered.
+Write a program that catches multiple exceptions (e.g., ValueError and TypeError) and prints appropriate error messages.
+Write a program that uses a try-except block to handle an IndexError when accessing an element in a list.
+Write a function that raises a TypeError if the input is not a string and handle this exception.
+Write a program that handles an ImportError when trying to import a non-existent module.
+Write a program that uses a try-except block to handle a KeyError when accessing a non-existent key in a dictionary.
+Create a custom exception called NegativeNumberError and raise it when a negative number is entered.
+Write a program that catches an AttributeError and prints an appropriate error message.
+Write a function that raises a RuntimeError and handle it in a try-except block.
+Write a program that uses nested try-except blocks to handle exceptions at different levels.
+Write a program that handles a ValueError when converting a string to an integer.
+Create a custom exception called EmptyStringError and raise it when an empty string is entered.
+Write a program that uses a try-except-finally block to handle exceptions and ensure a cleanup action is performed.
+Write a function that raises an OverflowError and handle it in a try-except block.
+Write a program that catches a StopIteration exception when using an iterator.
+Create a custom exception called OutOfRangeError and raise it when a number is out of a specified range.

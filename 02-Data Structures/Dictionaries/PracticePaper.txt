@@ -1,0 +1,11 @@
+1>Create a dictionary to store information about a book, including title, author,
+year of publication, and genre. Print the dictionary.
+
+2>Write a script to add a new key-value pair to an existing dictionary and then update an
+existing value.
+
+3>Create a nested dictionary to store information about multiple students, including their names,
+ages, and courses they are enrolled in. Access and print the details of a specific student.
+
+4>Use dictionary comprehension to create a dictionary that maps each number from 1 to 10 to its cube.
+

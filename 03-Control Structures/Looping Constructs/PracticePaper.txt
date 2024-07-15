@@ -1,0 +1,20 @@
+Write a while loop that prints numbers from 1 to 10.
+Write a for loop that prints each character in a string.
+Write a program that uses a while loop to calculate the sum of the first 10 natural numbers.
+Write a for loop that iterates over a list of numbers and prints the square of each number.
+Write a nested loop that prints a 3x3 matrix of numbers.
+Write a program that uses a for loop and the range function to print even numbers between 1 and 20.
+Write a while loop that prints the Fibonacci sequence up to 100.
+Write a for loop that iterates over a dictionary and prints the key-value pairs.
+Write a program that uses a break statement to exit a loop when a specific condition is met.
+Write a program that uses a continue statement to skip printing numbers that are divisible by 3 in a loop from 1 to 20.
+Write a nested loop that prints the multiplication table for numbers 1 to 5.
+Write a while loop that reverses a given string.
+Write a for loop that uses the range function to print numbers from 10 to 1 in reverse order.
+Write a program that uses a while loop to find the factorial of a given number.
+Write a program that uses a for loop to iterate over a list of tuples and prints the sum of each tuple.
+Write a while loop that asks the user for input and continues to ask until the user types "exit".
+Write a for loop that uses the range function to print the first 10 multiples of 3.
+Write a program that uses a break statement inside a while loop to stop the loop if a user enters a negative number.
+Write a for loop that iterates over a set of numbers and prints the prime numbers.
+Write a program that uses a pass statement in a loop to handle an empty condition block and continue with the next iteration.

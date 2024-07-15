@@ -1,0 +1,40 @@
+Declare a variable num and assign the value 10 to it. Print the value of num.
+Create a variable pi and assign the value 3.14 to it. Print the value of pi.
+Assign the string "Python" to a variable called language. Print the value of language.
+Create a boolean variable is_open and set it to False. Print the value of is_open.
+Create a list of three colors and assign it to a variable colors. Print the list.
+Create a tuple with three numbers and assign it to a variable numbers. Print the tuple.
+Create a dictionary with keys "name" and "age", and assign it to a variable person_info. Print the dictionary.
+Create a set of three unique integers and assign it to a variable unique_set. Print the set.
+Declare a variable a and assign it the value 5. Declare another variable b and assign it the value 10. Print their sum.
+Assign the value 2.5 to a variable length and the value 3.5 to a variable width. Print their product.
+Assign the string "Hello, World!" to a variable greeting. Print the length of the string.
+Create a list of five integers and assign it to a variable numbers_list. Print the maximum value in the list.
+Create a tuple of four floating-point numbers and assign it to a variable float_tuple. Print the minimum value in the tuple.
+Create a dictionary with keys "brand", "model", and "year", and assign appropriate values. Print the value associated with the key "model".
+Create a set of four fruits and assign it to a variable fruits_set. Add a new fruit to the set and print the set.
+Create a variable x with value 100 and a variable y with value 50. Print the result of x divided by y.
+Assign the string "Python Programming" to a variable course. Print the first character of the string.
+Create a list of three cities and assign it to a variable cities. Replace the second city with a new city and print the list.
+Create a dictionary with keys "first_name", "last_name", and "age". Update the "age" value and print the dictionary.
+Create a set of five different numbers and assign it to a variable num_set. Remove an element from the set and print the set.
+Write a program that asks the user to enter their age and then prints a message stating their age.
+Create a program that takes the user's first name and last name as input and then prints the full name.
+Write a program that asks the user for a number and then prints the square of that number.
+Write a program that asks the user to input two numbers and prints their sum.
+Write a program that takes an integer input from the user and prints whether it is even or odd.
+Create a program that asks the user for their birth year and then prints their current age.
+Write a program that takes a string input from the user and prints it in reverse.
+Write a program that asks the user to enter a list of numbers separated by spaces and then prints the list.
+Write a program that asks the user for the length and width of a rectangle and then prints the area.
+Write a program that asks the user for a temperature in Celsius and converts it to Fahrenheit.
+Write a program that takes a sentence as input and prints the number of words in the sentence.
+Write a program that takes a number as input and prints its factorial.
+Write a program that asks the user for their height in centimeters and converts it to feet and inches.
+Create a program that asks the user to enter three numbers and prints the largest of the three.
+Write a program that asks the user for a string and prints the number of vowels in the string.
+Write a program that takes the user's first and last name as input and prints the initials.
+Write a program that asks the user to enter a list of numbers separated by commas and then prints the average of the numbers.
+Write a program that asks the user for a number and prints whether it is positive, negative, or zero.
+Write a program that takes a string input from the user and prints the string with all vowels removed.
+Write a program that asks the user for a distance in kilometers and converts it to miles.

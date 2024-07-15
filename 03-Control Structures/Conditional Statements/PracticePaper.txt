@@ -1,0 +1,20 @@
+Write a program that checks if a number is positive. If it is, print "Positive number".
+Write a program that checks if a number is even or odd and prints the appropriate message.
+Write a program that asks the user for their age and prints whether they are a minor, an adult, or a senior citizen based on their age.
+Write a program that checks if a given year is a leap year. If it is, print "Leap year", otherwise print "Not a leap year".
+Write a program that takes three numbers as input and prints the largest number.
+Write a program that checks if a character is a vowel or a consonant.
+Write a program that asks the user for a temperature in Celsius and prints whether it is below freezing, at freezing, or above freezing.
+Write a program that asks the user for a grade (0-100) and prints the corresponding letter grade (A, B, C, D, F).
+Write a program that checks if a number is positive, negative, or zero and prints the appropriate message.
+Write a program that asks the user for a number and checks if it is divisible by both 2 and 3.
+Write a program that asks the user for their height in centimeters and checks if they are tall, average, or short based on predefined height ranges.
+Write a program that checks if a string is empty and prints an appropriate message.
+Write a program that asks the user for their favorite color and prints a message based on their choice.
+Write a program that checks if a number is within a specified range (e.g., 1-100) and prints a message.
+Write a program that asks the user for two numbers and checks if the first is greater than, less than, or equal to the second.
+Write a program that asks the user for a month (1-12) and prints the corresponding season (spring, summer, fall, winter).
+Write a program that asks the user for a day of the week and prints whether it is a weekday or a weekend.
+Write a program that checks if a password entered by the user meets certain criteria (e.g., minimum length, contains numbers and letters).
+Write a program that checks if a year entered by the user is a leap year or not using nested conditionals.
+Write a program that asks the user for a score and prints the corresponding performance level (e.g., Excellent, Good, Fair, Poor) based on predefined score ranges.

@@ -1,0 +1,20 @@
+Create a list of the first 10 natural numbers and print it.
+Access and print the third element in a list of fruits.
+Modify the second element of a list to a new value and print the list.
+Add a new element to the end of a list and print the list.
+Insert an element at the second position of a list and print the list.
+Remove an element by value from a list and print the list.
+Remove and print the last element from a list using pop().
+Clear all elements from a list and print the list.
+Slice a list to get the first three elements and print them.
+Slice a list to get the last two elements and print them.
+Create a list comprehension that generates the squares of numbers from 1 to 10 and print it.
+Create a list comprehension that generates the squares of even numbers from 1 to 10 and print it.
+Sort a list of numbers in ascending order and print it.
+Reverse a list of numbers and print it.
+Find and print the index of an element in a list.
+Count and print the number of occurrences of an element in a list.
+Create a shallow copy of a list and print it.
+Extend a list with another list and print the result.
+Iterate over a list and print each element.
+Create a nested list and access an element from the inner list.
